@@ -1,5 +1,6 @@
 # ZTM-robotfriends-react-hooks
-這是第ZTM課程第30章的react-hooks教學篇的編碼： 
+這是第ZTM課程第30章的react-hooks教學篇的編碼  
+根據以下步驟來測試編碼：
 
      clone this respository  
      npm install  
